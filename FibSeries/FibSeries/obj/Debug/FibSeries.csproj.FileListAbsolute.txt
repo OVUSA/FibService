@@ -1,0 +1,10 @@
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.csproj.AssemblyReference.cache
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.csproj.SuggestedBindingRedirects.cache
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.ProjectInstaller.resources
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.csproj.GenerateResource.cache
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.csproj.CoreCompileInputs.cache
+C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FibSeries.exe.config
+C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FibSeries.exe
+C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FibSeries.pdb
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.exe
+C:\Users\velic\source\repos\FibSeries\FibSeries\obj\Debug\FibSeries.pdb

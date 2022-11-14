@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.InstallLog
+   assemblypath = C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.exe
+Installing service FibSeries...
+Service FibSeries has been successfully installed.
+Creating EventLog source FibSeries in log Application...
+Committing assembly 'C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.InstallLog
+   assemblypath = C:\Users\velic\source\repos\FibSeries\FibSeries\bin\Debug\FIbSeries.exe
